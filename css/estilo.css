@@ -1,0 +1,40 @@
+/*=========================BODY===============================*/
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+/*=========================HEADDER===============================*/
+
+.head{
+    color: white;
+    font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+    margin: 10px;
+}
+
+/*=========================MEIO===============================*/
+.card{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 247, 247);
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+}
+
+/*=========================FOOTER===============================*/
+.footer{
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    margin: 8px;
+}
